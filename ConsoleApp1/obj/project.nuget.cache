@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rc7h9cYxSIQS+cIGSuHAjfqf5C8YDn40xvOC2qxUnq7R6qHfupzI6m8p0EKXXNPqC64NA722FdgEV7UB8Rz1lg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pache\\Downloads\\cal_descontos\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pache\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\pache\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\pache\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\pache\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
