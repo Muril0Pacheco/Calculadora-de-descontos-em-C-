@@ -7,6 +7,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        System.Threading.Thread.CurrentThread.CurrentCulture = new System.Globalization.CultureInfo("pt-BR");
         
         Console.WriteLine("______________________________________________________________________________________________");     
         Console.WriteLine("SEJA BEM-VINDO(A) A CALCULADORA DE DESCONTOS");  
